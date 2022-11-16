@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #696E64;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+#head{
+    line-height: 300px;
+    color: aqua;
+    font-family: 'Signika Negative', sans-serif;
+}
+#devel{
+    line-height: 3em;
+    color: rgb(0, 255, 21);
+    font-size: 17px;
+    margin-top: -100px;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+#erty {
+	display: block;
+	background: #093cc7;
+	color: #fff;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 320px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+    margin-left: 630px;
+    line-height: 20px;
+}
+#text{
+    color: red;
+}
+#zipo{
+    display: block;
+	background: red;
+	color: #fff;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 320px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+    margin-left: 630px;
+    line-height: 20px;
+}
+#ter{
+    color: #0318f8;
+}
+#studiov{
+    font-size: 25px;
+    color: #3EA825;
+    line-height: 4em;
+}
+#read{
+    display: block;
+	background: #093cc7;
+	color: #fff;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 170px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+    margin-left: 700px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
